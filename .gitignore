@@ -4,3 +4,5 @@ images/
 runs/
 best_images/
 .idea/
+__pycache__/
+*.pyc
